@@ -1,0 +1,23 @@
+{
+  "name": "tweet-exchange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewgenius/tweet-exchange.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ewgenius/tweet-exchange/issues"
+  },
+  "homepage": "https://github.com/ewgenius/tweet-exchange#readme",
+  "devDependencies": {
+    "@types/node": "^6.0.46",
+    "@types/request": "0.0.32"
+  },
+  "dependencies": {
+    "request": "^2.76.0"
+  }
+}
